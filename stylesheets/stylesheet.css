@@ -38,6 +38,8 @@ a:hover {
 
 .unstyled{
   list-style: none;
+  padding-left: 0;
+  margin-left: 0;
 }
 .btn:hover {
   color: rgba(255, 255, 255, 0.8);
